@@ -1,0 +1,43 @@
+.solar .background {
+  background: url("/public/solar.jpg");
+  background-attachment: fixed;
+}
+.wind .background {
+  background: url("/public/windbackground.jpg");
+  background-attachment: fixed;
+}
+.hydropower .background {
+  background: url("/public/hydroelectric.jpg");
+  background-attachment: fixed;
+}
+.geothermal .background {
+  background: url("/public/geothermal.jpg");
+  background-attachment: fixed;
+}
+.splash {
+  padding: 180px 20px;
+}
+.box {
+  color: #73A309;
+  background: #fff;
+  background: rgba(255,255,255,0.8);
+  display: inline-block;
+  border-radius: 4px;
+  padding: 15px;
+  font-size: 50px;
+}
+.summary p {
+  font-size: 25px;
+  padding: 7px;
+  color: #73A309;
+}
+.list {
+  text-align: left;
+  display: inline-block;
+  margin: 0px auto;
+}
+.container img {
+  width: 39%;
+  height: 39%;
+  padding: 45px;
+}
